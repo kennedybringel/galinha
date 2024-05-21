@@ -3,10 +3,6 @@
 }
 
 .App-header {
-  background-image: url('./assets/background.jpg'); /* Substitua pelo caminho da sua imagem */
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
