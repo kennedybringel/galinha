@@ -1,9 +1,11 @@
 import React from 'react';
 import './App.css';
+import background from './assets/background.jpg';
 
 function App() {
   return (
     <div className="App">
+      <div className="background"></div>
       <header className="App-header">
         <h1>Título</h1>
         <p>Este é o primeiro texto.</p>
