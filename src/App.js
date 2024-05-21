@@ -10,6 +10,46 @@ function App() {
         <button>Botão</button>
         <p>Este é o segundo texto.</p>
         <p>Este é o terceiro texto.</p>
+                <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
+        <p>Este é o segundo texto.</p>
+        <p>Este é o terceiro texto.</p>
       </header>
     </div>
   );
