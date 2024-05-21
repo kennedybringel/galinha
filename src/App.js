@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="content">
+    <div className="App">
       <header className="App-header">
         <h1>Título</h1>
         <p>Este é o primeiro texto.</p>
