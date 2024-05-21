@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
-import background from './assets/background.jpg';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header" style={{ backgroundImage: `url(${background})`, backgroundAttachment: 'fixed', backgroundSize: 'cover', backgroundPosition: 'center', minHeight: '100vh', color: 'white', padding: '20px' }}>
+      <header className="App-header">
         <h1>Título</h1>
         <p>Este é o primeiro texto.</p>
         <button>Botão</button>
