@@ -8,11 +8,9 @@
       body {
         margin: 0;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-        height: 100%;
-        overflow: hidden;
       }
       .background {
-        background-image: url('./assets/background.jpg');
+        background-image: url('/assets/background.jpg');
         background-attachment: fixed;
         background-size: cover;
         background-position: center;
@@ -30,7 +28,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height: 100vh;
+        min-height: 100vh;
         color: white;
         padding: 20px;
       }
@@ -39,6 +37,6 @@
   <body>
     <div class="background"></div>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root" class="content"></div>
+    <div id="root"></div>
   </body>
 </html>
